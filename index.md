@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Ilja-L Portfolio
+This is my data science portfolio outlining some of the projects I have tackled.
 
-You can use the [editor on GitHub](https://github.com/Ilja-Lom/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Project 1: Diagnosing Depression Using Patient Audio Recordings
+This is my dissertation project that I am currently working on. The project revolves around building a Convolutional Neural Network to diagnose patients with depression from audio recordings of their speech. I am currently developing the pipeline, including the data pre-processing and the model itself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project has refined my ability to use major Python Data Science libraries such as TensorFlow with the Keras API, and Scikit-Learn. Additionally, it has introduced me to Google'S Voice Activity Detection (VAD) which is an important component of processing the data.
 
-### Markdown
+A major hurdle of the project is maintenence of privacy. The audio recordings of the patient's speech are classified as sensitive data; although the data is anonymised, the patient might be able to be identified. Therefore, I employ good practice techniques to ensure I am not risking the privacy and confidentiality of the subject.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The code will be released once the project has been completed.
 
-```markdown
-Syntax highlighted code block
+# [Data Science Profession Survey](https://github.com/Ilja-Lom/data-science-professional-survey)
+As a keen data scientist, I wanted to know some basic information about the demographic of the data science field. For example, what is the most common age group within the field, what are the most common machine learning techniques, and other questions.
 
-# Header 1
-## Header 2
-### Header 3
+This project used Kaggle's 2020 Data Science Professional Career Survey dataset, where I performed basic exploratory analysis to give me a brief overview of the field.
 
-- Bulleted
-- List
+To supplement the project, I have provided a basic documentation to go alongside the analysis.
 
-1. Numbered
-2. List
+# [DNA-Sequence Translator](https://github.com/Ilja-Lom/Updated-DNA-Sequence-Translator)
+This was a bioinformatics project that I have completed, which takes advantage of my background in biology.
 
-**Bold** and _Italic_ and `Code` text
+The purpose of the project was to take a DNA strand as an input (e.g. AGCT...), and convert it to the complementary amino acid sequence. This is an important component to any bioinformatics pipeline because it can point towards the shape a protein takes after folding, and the effects a mutation in the DNA may have on the final protein shape; this can impact the function of the protein.
 
-[Link](url) and ![Image](src)
-```
+This project is something I use as a benchmark to track my progession in coding. I have developed two, at the time of wriing, different versions of this programme to implement a more efficient algorithm using better Computer Science techniques. I plan on developing a new version soon to put the new techniques I have learned into practice.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Link to newest version repository: https://github.com/Ilja-Lom/Updated-DNA-Sequence-Translator
 
-### Jekyll Themes
+Link to first version repository: https://github.com/Ilja-Lom/Nitrogenous-Base-Sequence-Translator
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ilja-Lom/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
