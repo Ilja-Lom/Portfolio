@@ -17,6 +17,10 @@ This project used Kaggle's 2020 Data Science Professional Career Survey dataset,
 
 To supplement the project, I have provided a basic documentation to go alongside the analysis.
 
+![](https://github.com/Ilja-Lom/Portfolio/blob/gh-pages/images/age%20distribution%20of%20respondents.png)
+![](https://github.com/Ilja-Lom/Portfolio/blob/gh-pages/images/age%20experience%20heatmap.png)
+![](https://github.com/Ilja-Lom/Portfolio/blob/gh-pages/images/machine%20learning%20techniques%20frequency.png)
+
 # [DNA-Sequence Translator](https://github.com/Ilja-Lom/Updated-DNA-Sequence-Translator)
 This was a bioinformatics project that I have completed, which takes advantage of my background in biology.
 
